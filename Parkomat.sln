@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2027
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Parkomat", "Parkomat\Parkomat.csproj", "{58BA53AA-1851-48EF-BE7B-64B61D6B37F0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ParkomatDB", "ParkomatDB\ParkomatDB.csproj", "{0DDFCFC9-59BE-45B3-9CE1-038398303027}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ParkomatWyjazd", "ParkomatWyjazd\ParkomatWyjazd.csproj", "{FF38E95A-759F-4A55-AAC0-90DB3ACECAAF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{58BA53AA-1851-48EF-BE7B-64B61D6B37F0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{58BA53AA-1851-48EF-BE7B-64B61D6B37F0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{58BA53AA-1851-48EF-BE7B-64B61D6B37F0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{58BA53AA-1851-48EF-BE7B-64B61D6B37F0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0DDFCFC9-59BE-45B3-9CE1-038398303027}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0DDFCFC9-59BE-45B3-9CE1-038398303027}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0DDFCFC9-59BE-45B3-9CE1-038398303027}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0DDFCFC9-59BE-45B3-9CE1-038398303027}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FF38E95A-759F-4A55-AAC0-90DB3ACECAAF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FF38E95A-759F-4A55-AAC0-90DB3ACECAAF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FF38E95A-759F-4A55-AAC0-90DB3ACECAAF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FF38E95A-759F-4A55-AAC0-90DB3ACECAAF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4F5BBCE8-A896-4578-87AE-C26D75AF583E}
+	EndGlobalSection
+EndGlobal
