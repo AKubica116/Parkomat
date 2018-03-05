@@ -9,6 +9,7 @@ namespace Parkomat
     {
         static void Main(string[] args)
         {
+            //Connection string do lokalnej bazy danych
             SqlConnection myConn =
                     new SqlConnection("Server=(localdb)\\MSSQLLocalDB;Integrated security=SSPI;database=ParkomatDB");
                 SqlCommand cmd = new SqlCommand();
